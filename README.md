@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Dito Dileep 👋
 
-<!--
-**dito-dileep/dito-dileep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Computer Science (AI & Machine Learning)**  
+SRM Institute of Science & Technology, Chennai  
 
-Here are some ideas to get you started:
+💻 Interested in **Software Development, AI, and Problem Solving**  
+🚀 Actively seeking **internship opportunities**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technical Skills
+- Python
+- Java
+- C++
+- C
+- HTML
+- Git & GitHub
+
+---
+
+## 📂 Projects
+- **SRM Campus Safety App** – Android app for student safety (Java)
+- **Español Freedom Fighters** – Educational web project (HTML)
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/dito-dileep-7966a5194
+- GitHub: https://github.com/dito-dileep
