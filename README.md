@@ -25,5 +25,5 @@ SRM Institute of Science & Technology, Chennai
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/dito-dileep-7966a5194
+- LinkedIn:https://www.linkedin.com/in/dito-dileep/
 - GitHub: https://github.com/dito-dileep
