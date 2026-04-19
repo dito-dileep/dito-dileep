@@ -95,13 +95,18 @@ I am a Computer Science student specializing in `AI & ML` at `SRM IST`, focused 
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dito-dileep">LinkedIn</a>
-  |
-  <a href="https://www.instagram.com/dito_dileep/">Instagram</a>
-  |
-  <a href="https://devfolio.co/@dito_dileep">Devfolio</a>
-  |
-  <a href="mailto:ditodileep@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/dito-dileep">
+    <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=00f7ff" />
+  </a>
+  <a href="https://www.instagram.com/dito_dileep/">
+    <img src="https://img.shields.io/badge/Instagram-0b1220?style=for-the-badge&logo=instagram&logoColor=00f7ff" />
+  </a>
+  <a href="https://devfolio.co/@dito_dileep">
+    <img src="https://img.shields.io/badge/Devfolio-0b1220?style=for-the-badge&logo=dev.to&logoColor=00f7ff" />
+  </a>
+  <a href="mailto:ditodileep@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=00f7ff" />
+  </a>
 </p>
 
 ---
