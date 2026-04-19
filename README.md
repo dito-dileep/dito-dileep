@@ -1,125 +1,80 @@
-<!-- PROFILE README FOR github.com/dito-dileep -->
+<!-- MINIMAL / PREMIUM PROFILE README FOR github.com/dito-dileep -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,35:00c6ff,70:00f7ff,100:7f5af0&height=220&section=header&text=DITO%20DILEEP&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20Software%20Developer%20%7C%20Builder&descAlignY=56&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1f2937,100:0f172a&height=160&section=header&text=DITO%20DILEEP&fontSize=42&fontColor=f8fafc&animation=fadeIn&desc=AI%20%7C%20Software%20Developer%20%7C%20Builder&descSize=16&descAlignY=64" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Turning+ideas+into+working+products;AI+%7C+Software+Development+%7C+Problem+Solving;Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Repeat;Open+to+internships" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/dito-dileep">
-    <img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=00f7ff" />
-  </a>
-  <a href="https://www.linkedin.com/in/dito-dileep">
-    <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=00f7ff" />
-  </a>
-  <a href="mailto:ditodileep@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=00f7ff" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=dito-dileep&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS" />
+  <a href="https://github.com/dito-dileep">GitHub</a>
+  |
+  <a href="https://www.linkedin.com/in/dito-dileep">LinkedIn</a>
+  |
+  <a href="https://www.instagram.com/dito_dileep/">Instagram</a>
+  |
+  <a href="https://devfolio.co/@dito_dileep">Devfolio</a>
+  |
+  <a href="mailto:ditodileep@gmail.com">Email</a>
 </p>
 
 ---
 
-```js
-const dito = {
-  location: "Chennai, India",
-  education: "B.Tech CSE (AI & ML) @ SRM IST",
-  mindset: "build -> break -> learn -> repeat",
-  focus: ["AI", "Software Development", "Problem Solving"],
-  currentlyBuilding: ["Practical products", "Hackathon ideas", "Systems that actually work"],
-  status: "Open to internships"
-};
+## About
 
-const stack = {
-  languages: ["Python", "Java", "C++", "C", "HTML", "CSS"],
-  tools: ["Git", "GitHub", "VS Code"],
-  interests: ["AI", "Apps", "Automation", "Product-building"]
-};
-
-const projects = [
-  "Campus Safety App -> Emergency alerts, GPS tracking, quick contacts",
-  "Espanol Freedom Fighters -> Educational static website",
-  "Recall -> Active recall based learning system",
-  "Hireo -> Hackathon hiring workflow platform"
-];
-
-const connect = {
-  linkedin: "linkedin.com/in/dito-dileep",
-  github: "github.com/dito-dileep",
-  mail: "ditodileep@gmail.com"
-};
-```
+I am a Computer Science student specializing in `AI & ML` at `SRM IST`, focused on building practical software and AI-driven products. I enjoy turning ideas into working systems, especially through project-based learning and hackathon-style execution.
 
 ---
 
-## About Me
+## Focus
 
-- I like building things that move from idea to working product fast.
-- My strongest interest areas are `AI`, `software development`, and `problem solving`.
-- I enjoy hackathons, shipping practical projects, and learning by building.
-- I care a lot about consistency, execution, and clean output over hype.
+- AI
+- software development
+- problem solving
+- product-building
+- internships and practical experience
 
 ---
 
-## Tech Stack
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,git,github,vscode&perline=9" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-0b1220?style=flat-square&logo=openai&logoColor=00f7ff" />
-  <img src="https://img.shields.io/badge/Software%20Development-0b1220?style=flat-square&logo=googlechrome&logoColor=00f7ff" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-0b1220?style=flat-square&logo=leetcode&logoColor=00f7ff" />
-  <img src="https://img.shields.io/badge/Open%20to%20Internships-0b1220?style=flat-square&logo=handshake&logoColor=00f7ff" />
-</p>
-
 ---
 
-## Featured Projects
+## Selected Projects
 
-| Project | What it does |
+| Project | Summary |
 | --- | --- |
-| `Campus Safety App` | Android-focused idea for emergency alerts, GPS tracking, and quick safety contacts |
-| `Espanol Freedom Fighters` | Educational static website project |
-| `Recall` | Learning-memory system focused on active recall, structured notes, and study intelligence |
-| `Hireo` | Hiring workflow system built as a hackathon product |
+| `Recall` | Active recall based learning system with structured study workflows |
+| `Hireo` | Hiring workflow product built during a hackathon |
+| `Campus Safety App` | Safety-focused mobile app concept with alerts and GPS support |
+| `Espanol Freedom Fighters` | Educational website project |
 
 ---
 
-## GitHub Stats
+## GitHub Overview
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dito-dileep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dito-dileep&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dito-dileep&show_icons=true&hide_border=true&bg_color=00000000&theme=github_dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dito-dileep&layout=compact&hide_border=true&bg_color=00000000&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dito-dileep&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dito-dileep&bg_color=0b1220&color=00f7ff&line=7f5af0&point=00f7ff&area=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dito-dileep&theme=github-dark-blue&hide_border=true&background=00000000" />
 </p>
 
 ---
 
-## Trophies
+## Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dito-dileep&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dito-dileep&bg_color=0f172a&color=e5e7eb&line=38bdf8&point=f8fafc&area=true&hide_border=true" />
 </p>
 
 ---
 
-## Snake Animation
+## Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dito-dileep/dito-dileep/output/github-contribution-grid-snake.svg" />
@@ -130,20 +85,17 @@ const connect = {
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dito-dileep">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=for-the-badge&logo=linkedin&logoColor=00f7ff" />
-  </a>
-  <a href="mailto:ditodileep@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-0b1220?style=for-the-badge&logo=gmail&logoColor=00f7ff" />
-  </a>
+  <a href="https://www.linkedin.com/in/dito-dileep">LinkedIn</a>
+  |
+  <a href="https://www.instagram.com/dito_dileep/">Instagram</a>
+  |
+  <a href="https://devfolio.co/@dito_dileep">Devfolio</a>
+  |
+  <a href="mailto:ditodileep@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:00f7ff,100:0b1220&height=120&section=footer" />
-</p>
-
-<p align="center">
-  <i>no shortcuts. just consistency.</i>
+  <i>building with clarity, consistency, and intent.</i>
 </p>
